@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVPMoxyRxJavaRetrofitDaggerPicasso</string>
+    <string name="public_repos_count">Количество публичных репозиториев: </string>
+    <string name="overview">Детальная информация</string>
+    <string name="error">Ошибка</string>
+
+    <string name="item_gist_name_desc">Название: </string>
+    <string name="item_gist_author_login_desc">Автор: </string>
+</resources>
